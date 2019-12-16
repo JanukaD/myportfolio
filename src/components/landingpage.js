@@ -18,15 +18,15 @@ class Landing extends Component {
 
                             <div className="social-links">
 
-                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.linkedin.com/in/januka-dharmapriya/" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-linkedin-square" aria-hidden="true" />
                                 </a>
 
-                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.facebook.com/januka.madushan" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-facebook-square" aria-hidden="true" />
                                 </a>
 
-                                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/JanukaD" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a>
 
